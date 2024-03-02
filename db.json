@@ -1,1 +1,11 @@
-{"level": 1, "letters": "gmtrei","contains": "a", "level": 2, "letters": "mrpate","contains": "n"}
+{"info":[{"level":1,
+   "letters":"gmtrei",
+   "contains":"a"},
+  {"level":2,
+   "letters":"mrpate",
+   "contains":"n"},
+  {"level":3,
+   "letters":"inertm",
+   "contains":"s"}]    
+}
+//{"level": 1, "letters": "gmtrei","contains": "a", "level": 2, "letters": "mrpate","contains": "n"}
