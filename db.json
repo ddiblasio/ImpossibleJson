@@ -1,10 +1,14 @@
-{"info":[{"level":1,
+{"info":
+   [{"level":0,
    "letters":"gmtrei",
    "contains":"a"},
-  {"level":2,
+   {"level":1,
    "letters":"mrpate",
    "contains":"n"},
-  {"level":3,
+   {"level":2,
    "letters":"inertm",
-   "contains":"s"}]    
+   "contains":"s"}, 
+   {"level":3,
+   "letters":"POSTER",
+   "contains":"c"}]    
 }
