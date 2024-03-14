@@ -16,5 +16,8 @@
    "contains":"a"},
    {"level":5,
    "letters":"tikdp",
-   "contains":"o"}]    
+   "contains":"o"},
+   {"level":5,
+   "letters":"mepsnd",
+   "contains":"a"}]    
 }
