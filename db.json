@@ -19,5 +19,8 @@
    "contains":"o"},
    {"level":6,
    "letters":"mepsnd",
+   "contains":"a"},
+   "level":6,
+   "letters":"kupsnd",
    "contains":"a"}]    
 }
